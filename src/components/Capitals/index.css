@@ -1,0 +1,33 @@
+/* Write your CSS here */
+
+.bg-container {
+  background-color: #93c5fd;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-container {
+  background-color: #f8fafc;
+  padding: 35px;
+  border-radius: 15px;
+  width: 35%;
+  font-family: 'Roboto';
+}
+
+.select-container {
+  display: flex;
+  align-items: center;
+}
+
+.option-value {
+  outline: none;
+  border-radius: 5px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: 5px;
+  font-weight: bold;
+}
